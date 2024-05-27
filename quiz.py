@@ -1,4 +1,3 @@
-#QUiZ
 #PYTHON QUiZ
 import time
 import random
