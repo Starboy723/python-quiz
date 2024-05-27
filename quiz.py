@@ -1,4 +1,5 @@
 #QUiZ
+#PYTHON QUiZ
 import time
 import random
 qdict={"Python filename extensions are/is ?":"a","When was python released ?":"b","Who created python programming language?":"a","Which operator has higher precedence in the following list ?":"c","Is python case sensitive when dealing with indentifiers?":"b","Which of the following is used to define a block of code in python ?":"a","Which keyword is used to create a  function in python ?":"b","Which of the following is the truncation division operator in python ?":"d","Which of the following functions is a built in function in python ?":"c","Which of the following statements is used to create an empty set in python ?":"d"}
